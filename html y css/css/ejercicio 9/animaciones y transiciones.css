@@ -1,0 +1,28 @@
+div{
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn-modern {
+    width: 120px;
+    height: 30px;
+    
+}
+
+.btn-modern {
+    background-color: rgb(17, 114, 199);
+    border: none;
+    border-radius: 5px;
+}
+
+.btn-modern:hover {
+
+    transform: translateY(-5px);
+    background-color: rgba(5, 5, 116, 0.842);
+    color: white;
+    transition: 4s;
+  
+
+}
